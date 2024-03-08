@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "255471066859",
+    "project_id": "arjun-test-app",
+    "storage_bucket": "arjun-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255471066859:android:aff6d6ee86daa20556e8ae",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter_app_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDQpKBBzBXCmqeI73Py5A-vdaA3S-GSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255471066859:android:978c3c021dd28b4556e8ae",
+        "android_client_info": {
+          "package_name": "com.example.rajkot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDQpKBBzBXCmqeI73Py5A-vdaA3S-GSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255471066859:android:001ac36c703c2af456e8ae",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDQpKBBzBXCmqeI73Py5A-vdaA3S-GSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
