@@ -1,16 +1,16 @@
-# vehicle_booking
+### vehicle booking
+# clone this repository
+```
+https://github.com/arjunkukadiya13/vehicle_booking.git
+```
+The Vehicle Booking Mobile Application user-friendly platform designed to facilitate the booking of various types of trucks. Built using Flutter for a seamless cross-platform mobile experience, and backed by a robust Node.js and MySQL server, this application aims to simplify the process of truck booking for users and businesses alike.
 
-A new Flutter project.
+# Technology Stack
+<b>Frontend </b>: Flutter <br>
+<b>Backend</b>: Node.js <br>
+<b>Database</b>: MySQL
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Prerequisites
+Flutter SDK<br>
+Node.js<br>
+MySQL<br>
